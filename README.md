@@ -14,3 +14,6 @@ Look at visualizations and listen to results to check success and performance.
 
 
 ## Read my documented approach here: https://docs.google.com/document/d/1_Gf_Am9_mbLGb_6pU4k5W8aXivyETiJy5yYzAO3mOu8/edit?usp=sharing 
+
+
+If you want to take a look at all the random other files I have and tests I ran heres the Drive: https://drive.google.com/drive/folders/16e63VQsayBiQuDbwyuxtAFa3qFGL69gT?usp=sharing 
